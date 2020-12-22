@@ -1,5 +1,5 @@
 # Spiral-Sort
-This is a sorting algorithm spiral visualization tool built using pygame. It gives a visual comparison of seven sorting algorithm.
+This is a sorting algorithm spiral visualization tool built using pygame. It gives a visual comparison of seven sorting algorithm. A video of the visualizer running is available on youtube via the following link: <a href="https://www.youtube.com/watch?v=PwOPlnjrpN4">Spiral Sort Video</a>.
 
 # What I Learnt
 <ol>
